@@ -2,7 +2,7 @@
 
 Try to answer one question per day and make a PR with your answer.
 
-HRR 23 contributors: For continued learning and software engineering mastery during our job search phase. [@bethstevic](https://github.com/bethstevic)
+HRR 23 contributors: For continued learning and software engineering mastery during our job search phase. [@bethstevic](https://github.com/bethstevic), [@obay-mardini](https://github.com/obay-mardini/)
 
 ## Guidelines for this repo
 
