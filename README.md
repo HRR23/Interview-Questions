@@ -45,29 +45,46 @@ This file contains a number of front-end interview questions that can be used wh
 #### General Questions:
 
 1. What did you learn yesterday/this week?
-  * [name](path to question answer)
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 2. What excites or interests you about coding?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 3. What is a recent technical challenge you experienced and how did you solve it?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 4. What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 5. Talk about your preferred development environment.
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 6. Which version control systems are you familiar with?
-  * [name](path to question answer)
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 7. Can you describe your workflow when you create a web page?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 8. If you have 5 different stylesheets, how would you best integrate them into the site?
-  * [name](path to question answer)
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 9. Can you describe the difference between progressive enhancement and graceful degradation?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 10. How would you optimize a website's assets/resources?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 11. How many resources will a browser download from a given domain at a time?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
   * What are the exceptions?
 12. Name 3 ways to decrease page load (perceived or actual load time).
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 13. If you jumped on a project and they used tabs and you used spaces, what would you do?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 14. Describe how you would create a simple slideshow page.
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 15. If you could master one technology this year, what would it be?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 16. Explain the importance of standards and standards bodies.
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 17. What is Flash of Unstyled Content? How do you avoid FOUC?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 18. Explain what ARIA and screenreaders are, and how to make a website accessible.
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 19. Explain some of the pros and cons for CSS animations versus JavaScript animations.
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 20. What does CORS stand for and what issue does it address?
+  * [@bethstevic](https://github.com/bethstevic/Interview-Questions/blob/master/generalQuestions.md)
 
 #### HTML Questions:
 
